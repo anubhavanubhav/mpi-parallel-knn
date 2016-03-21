@@ -1,0 +1,1 @@
+parallel knn implement by mpi
